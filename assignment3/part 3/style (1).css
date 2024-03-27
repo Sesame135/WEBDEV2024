@@ -44,3 +44,30 @@ header, footer {
 }
 
 /* WRITE YOUR CODE BELOW HERE */
+
+h1{
+  font-size: 3rem;
+  text-align: center;
+}
+
+h2{
+  font-size: 2rem;
+}
+
+/*h1, h2{
+
+}*/
+
+p{
+  font-size: 1em;
+  line-height: 1.7;
+}
+
+a:hover a:focus {
+  text-decoration: none;
+  color:rgb(255, 205, 139)
+}
+
+a:visited {
+  color: rgb(157, 128, 90)
+}
